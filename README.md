@@ -3,6 +3,7 @@
 
 #### This is example cmake project. It include:
 
+- generate config file 
 - build normal source 
 - build dynamic libs
 - build static libs
