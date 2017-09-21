@@ -9,5 +9,7 @@
 - package to install 
 
 #### How to use 
+```
 mkdir build && cd build
 cmake -DCMAKE_INSTALL_PREFIX=<path to install> ..
+```
