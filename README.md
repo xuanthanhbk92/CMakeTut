@@ -14,3 +14,7 @@
 mkdir build && cd build
 cmake -DCMAKE_INSTALL_PREFIX=<path to install> ..
 ```
+#### Author 
+
+Xuan Thanh Nguyen
+
